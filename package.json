@@ -1,0 +1,26 @@
+{
+  "name": "@sim/holidates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiryS/sim-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiryS/sim-CLI/issues"
+  },
+  "homepage": "https://github.com/ThiryS/sim-CLI#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "country-list": "^2.2.0"
+  },
+  "bin": {
+    "holidates": "./cli.js"
+  }
+}
