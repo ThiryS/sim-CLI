@@ -1,5 +1,5 @@
 {
-  "name": "@sim/holidates",
+  "name": "@thirys/holidates",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ThiryS/sim-CLI.git"
   },
-  "author": "",
+  "author": "thirys",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ThiryS/sim-CLI/issues"
